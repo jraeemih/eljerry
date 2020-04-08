@@ -1,1 +1,7 @@
-test
+<html>
+<head>
+  <title>This is a test</title>
+</head>
+<body>
+</body>
+</html>
